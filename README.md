@@ -1,5 +1,7 @@
 Thiết Kế Bộ Lọc Số IIR Thông Thấp (Low-pass IIR Filter)
+
 Bài tập lớn môn Xử Lý Tín Hiệu Số (XLTHS) tại Học viện Công nghệ Bưu chính Viễn thông - PTIT
+
 📝 Giới thiệu
 Bộ lọc IIR (Infinite Impulse Response - Đáp ứng xung vô hạn) là một thành phần cốt lõi trong xử lý tín hiệu số nhờ khả năng đạt được đáp ứng tần số mong muốn với bậc lọc thấp hơn nhiều so với bộ lọc FIR. Dự án này tập trung vào thiết kế và mô phỏng bộ lọc IIR thông thấp ứng dụng trong xử lý nhiễu tín hiệu y sinh (ECG) và âm thanh.
 Lý do cần thiết kế
